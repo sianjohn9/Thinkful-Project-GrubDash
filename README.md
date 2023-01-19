@@ -1,1 +1,1 @@
-# Thinkful-Project-GrubDash
+# Project-GrubDash
